@@ -1,6 +1,6 @@
 - Hi, My name is João Gravena, I'm from Brazil
 - I'm studying Computer Sciencie in UNIP
-- I'm studying Python, HTML and CSS
+- I'm studying Python, JavaScript, HTML and CSS
 
 <div>
   <a href="https://github.com/gravena74">
