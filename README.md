@@ -1,6 +1,6 @@
 
 <h1>Hi 👋, I'm João Gravena</h1>
-<h3>Currently, I am pursuing a degree in Computer Science, where I have the opportunity to actively participate in academic and freelance projects, working with technologies such as Python, AWS,         Artificial Intelligence, and Automation. This experience has reinforced my passion for the field and my goal of becoming an expert in Artificial Intelligence, delving deeper into the development of innovative and scalable     solutions.</h3>
+<p></p>Currently, I am pursuing a degree in Computer Science, where I have the opportunity to actively participate in academic and freelance projects, working with technologies such as Python, AWS,         Artificial Intelligence, and Automation. This experience has reinforced my passion for the field and my goal of becoming an expert in Artificial Intelligence, delving deeper into the development of innovative and scalable     solutions.<p/>
 
 - 🌱 I’m currently learning **Machine Learning**;
 
