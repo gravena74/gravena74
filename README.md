@@ -3,7 +3,6 @@
 <h3>Currently, I am pursuing a degree in Computer Science, where I have the opportunity to actively participate in academic and freelance projects, working with technologies such as Python, AWS,         Artificial Intelligence, and Automation. This experience has reinforced my passion for the field and my goal of becoming an expert in Artificial Intelligence, delving deeper into the development of innovative and scalable     solutions.</h3>
 
 <br/>
-<br/>
 
 - 🌱 I’m currently learning **Machine Learning**;
 
@@ -13,7 +12,6 @@
 
 - 📄 Know about my experiences [www.linkedin.com/in/joao-gravena](www.linkedin.com/in/joao-gravena).
 
-<br/>
 <br/>
 
 <h3 align="left">Connect with me:</h3>
