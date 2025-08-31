@@ -1,13 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jogo Termo</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Kode+Mono:wght@400..700&display=swap" rel="stylesheet">
+    <style>
+      body{
+        font-family: "Kode Mono", monospace;
+        font-optical-sizing: auto;
+        font-weight: <weight>;
+        font-style: normal;
+      }
+    </style>
+</body>
+</html>
+
 <h1 align="center">Hi 👋, I'm João Gravena</h1>
-<h3 align="center">I'm computer science student formed in I.T on high school with the objective to be a software engineer.</h3>
+<h3 align="center">Currently, I am pursuing a degree in Computer Science, where I have the opportunity to actively participate in academic and freelance projects, working with technologies such as Python, AWS, Artificial Intelligence, and Automation. This experience has reinforced my passion for the field and my goal of becoming an expert in Artificial Intelligence, delving deeper into the development of innovative and scalable solutions.</h3>
 
-- 🌱 I’m currently learning **Java, SQL**
+- 🌱 I’m currently learning **Machine Learning;
 
-- 👨‍💻 All of my projects are available at [https://github.com/gravena74](https://github.com/gravena74)
+- 👨‍💻 All of my projects are available at [https://github.com/gravena74](https://github.com/gravena74);
 
-- 📝 I regularly write articles on [https://dev.to/gravena74](https://dev.to/gravena74)
+- 📝 I regularly write articles on [https://dev.to/gravena74](https://dev.to/gravena74);
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/jo%C3%A3o-vitor-marco-antonio-gravena-b80140222/](https://www.linkedin.com/in/jo%C3%A3o-vitor-marco-antonio-gravena-b80140222/)
+- 📄 Know about my experiences [www.linkedin.com/in/joao-gravena](www.linkedin.com/in/joao-gravena).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
